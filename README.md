@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pragya Paudyal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Dot Net MVC
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pragyap2056@gmail.com
 
