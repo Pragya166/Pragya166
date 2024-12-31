@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Pragya166/Pragya166/blob/main/bannergithub.png" alt="logo" width="100%"/>
+<img src="https://github.com/Pragya166/Pragya166/blob/main/bannergithub.png" alt="logo" width="100%" height=""200"/>
 
 <h1 align="center">Hi 👋, I'm Pragya Paudyal</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
