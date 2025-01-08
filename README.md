@@ -3,9 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Pragya Paudyal</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/Pragya166/Pragya166/blob/main/coding%20%20girl.gif">
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://github.com/Pragya166/Pragya166/blob/main/coding%20%20girl.gif" alt="pragya166" /> </p>
+
 
 - 🌱 I’m currently learning **Python**
 
